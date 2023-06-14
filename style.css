@@ -4,3 +4,11 @@
 	width: 900px;
 	font-family: 'Open Sans', sans-serif
 }
+
+.split-screen {
+    display: flex;
+}
+
+.split-screen__half {
+    flex: 1;
+}
